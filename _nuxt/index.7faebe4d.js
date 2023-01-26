@@ -1,0 +1,1 @@
+import{_ as n}from"./Navbar.vue.eee31c49.js";import r from"./layout.0736e1fc.js";import{e as s,o as _,c,Q as e,R as p,F as m,X as u}from"./entry.1564be69.js";const N=s({__name:"index",setup(i){return(o,l)=>{const t=n,a=r;return _(),c(a,null,{header:e(()=>[p(t)]),default:e(()=>[m("p",null,u(o.$route.params.slug),1)]),_:1})}}});export{N as default};

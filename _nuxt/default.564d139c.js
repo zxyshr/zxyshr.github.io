@@ -1,0 +1,1 @@
+import{J as o,o as a,E as t,K as s,F as c}from"./entry.1564be69.js";const n={},r={class:"h-full"},l={class:"mx-12 my-6"};function _(e,d){return a(),t("div",r,[s(e.$slots,"header"),c("main",l,[s(e.$slots,"main")])])}const i=o(n,[["render",_]]);export{i as default};
